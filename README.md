@@ -39,19 +39,23 @@ The dashboard is divided into four key sections:
 Sales by region
 Top-performing states
 City-level performance (Sales vs Profit)
+
 📦 Product Mix
 Category market share
 Sub-category sales
 Profit margin analysis
+
 💰 Financials
 KPI metrics (Sales & Profit)
 Profit distribution by state
 Loss-making sub-categories
 Profitability matrix (Sales vs Profit)
+
 ⏳ Time Trends
 Monthly sales trends
 Sales by day of week
 Quarterly performance
+
 🎯 Key Features
 Interactive filters (Year, Region, Category, State)
 Multiple visualization types:
@@ -61,38 +65,45 @@ Scatter plots
 KPI cards
 User-friendly and structured layout
 Multi-page navigation for focused analysis
+
 🧠 Key Insights
 Sales performance varies significantly across regions
 Technology is the highest-performing category
 Some products generate losses despite high sales
 Clear seasonal trends exist in sales data
+
 ✅ Advantages
 Clear and intuitive dashboard design
 Effective use of visualization techniques
 Interactive filtering for dynamic analysis
 Comprehensive coverage of business metrics
+
 ⚠️ Limitations
 Focuses on descriptive analytics only
 No real-time data integration
 Limited advanced customization
 Performance may reduce with larger datasets
+
 🔮 Future Improvements
 Integration of predictive analytics (ML models)
 Real-time data connectivity
 Enhanced interactivity and drill-down features
 Improved UI/UX design
 Mobile responsiveness
+
 🛠️ Technologies Used
 R (Shiny)
 Python (Data preprocessing & EDA)
 Pandas, NumPy
 Matplotlib, Seaborn
+
 📌 How to Run Locally
 Clone the repository:
 git clone https://github.com/your-username/superstore-dashboard.git
 Open the project in RStudio
 Run the Shiny app:
 shiny::runApp()
+
 📄 License
 
 This project is for academic purposes.
